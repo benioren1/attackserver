@@ -13,7 +13,7 @@ namespace AttackServer
     {
         public static async Task Main(string[] args)
         {
-            
+            //change sumsing
             //string filepatth = await Getfile("C:\\Users\\benio\\OneDrive\\שולחן העבודה\\idf\\exemple.txt");
             //Console.WriteLine(filepatth);
             //Console.WriteLine(await GetData("My name is beni and i live in beiter elit and i sarving in I.D.F "));
